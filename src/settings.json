@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials.",
+        "title": "Yay: Ignite Your Innovation"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Ignite Your Innovation",
+  "subtitle": "Transform your tech ideas into reality with our inspirational insights and cutting-edge tutorials."
+}
